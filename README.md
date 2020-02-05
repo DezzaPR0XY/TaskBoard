@@ -9,7 +9,7 @@ __________
 * Tasks and Task manipulation
 * Multi-User Access for a Task List
 * Task List View
-* Task Board View
+* Task Board View - Optional
 * Task Calendar View - Optional
 * Login
   * Google OAUTH API - Optional
