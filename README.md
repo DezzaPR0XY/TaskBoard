@@ -11,6 +11,6 @@ This is a solo project to create a task board that aims to be clean, simple, fle
 * Task Board View
 * Task Calendar View (Optional)
 * Login
-** Google OAUTH API (Optional)
+  * Google OAUTH API (Optional)
 * Friends or Group (Optional)
 * User Task List Perms (Optional)
