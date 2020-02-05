@@ -1,0 +1,77 @@
+
+.v-align-btm {
+  vertical-align: bottom;
+}
+
+.text-align-left {
+  text-align: left;
+}
+
+.text-align-right {
+  text-align: right;
+}
+
+.align-top {
+  vertical-align: top;
+}
+
+.border1 {
+  border: 2px black solid;
+}
+
+.width800 {
+  width: 800px;
+}
+
+.width700 {
+  width: 700px;
+}
+
+.width600 {
+  width: 600px;
+}
+
+.width200 {
+  width: 200px;
+}
+
+.width100 {
+  width: 100px;
+}
+
+.text-red {
+  color: red;
+}
+
+.bolder {
+  font-weight: bolder;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.inline-block {
+  display: inline-block;
+}
+
+.inline {
+  display: inline;
+}
+
+.block {
+  display:block;
+}
+
+.wrapper-container {
+  display: flex;
+  width: 1000px;
+  height: auto;
+  flex-flow: wrap;
+}
+
+.wrapper {
+  width: 1000px;
+  margin: 0 auto;
+  font-family: "Comic Sans MS",sans-serif;
+}
