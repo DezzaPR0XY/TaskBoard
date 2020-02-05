@@ -3,6 +3,7 @@
 
 This is a solo Django project to create a task board that aims to be ***super clean, simple, flexible, manipulatable, and organized***, and users will have the capability of **inviting others to join a task board** that you are part of.
 __________
+__________
 ## Key Features
 
 * Tasks and Task manipulation
@@ -19,6 +20,7 @@ __________
 * Detailed Tickets
 * Filterable and Orderable - Optional (Shouldn't effect Priority when active)
 __________
+__________
 ## Brainstorm
 
 * Radio Input Status (Done, Hold, To Do, In Prog)
@@ -26,6 +28,7 @@ __________
 * How to organize Priority
   * Ideas
    1. When onChange(), reassign the order for tickets *probably going with this one*
+__________
 __________
 ## To Do
 
@@ -42,6 +45,7 @@ __________
  1. Status Table
  1. Users Table
  1. Users_to_Lists_Perms Table (many-to-many)
+__________
 __________
 ## Detailed Features
 
