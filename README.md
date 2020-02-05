@@ -1,4 +1,4 @@
-# TaskBoard
+# TaskBoard [Name TBD]
 * [Wireframe](https://wireframe.cc/XxgW6y)
 
 This is a solo Django project to create a task board that aims to be ***super clean, simple, flexible, manipulatable, and organized***, and users will have the capability of **inviting others to join a task board** that you are part of.
