@@ -24,7 +24,7 @@ __________
 ## Brainstorm
 
 * Radio Input Status (Done, Hold, To Do, In Prog)
-* How to setup DB
+* How to setup DB (Maybe use Fire Base)
 * How to organize Priority
   * Ideas
    1. When onChange(), reassign the order for tickets *probably going with this one*
