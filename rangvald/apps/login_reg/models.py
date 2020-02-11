@@ -8,11 +8,3 @@ class User(models.Model):
   email = models.EmailField()
   date_created = models.DateTimeField()
   password = models.CharField(max_length=255)
-  task = models.ForeignKey(Task, on_delete=models.CASCADE)
-  taskboard = models.ForeignKey(Taskboard, on_delete=models.CASCADE)
-
-class Perms(models.Model):
-  taskboard = models.ForeignKey(Taskboard, on_delete=models.CASCADE)
-  user = models.ForeignKey(User, on_delete=models.CASCADE)
-  level = models.IntegerField()
-  description = models.TextField(max_length=255)
